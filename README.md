@@ -1,1 +1,2 @@
-# Firebase-PThree
+# synchronousBallMovement
+Ball moving synchronously
